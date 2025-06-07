@@ -1,0 +1,38 @@
+# Build output
+bin/
+obj/
+./DotnetLearningDictonary/obj/
+./DotnetLearningDictonary/bin/
+
+# Rider / IntelliJ
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.userprefs
+*.dbmdl
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# VS Code
+.vscode/
+
+# Others
+*.DS_Store

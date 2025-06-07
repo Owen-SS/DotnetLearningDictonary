@@ -1,0 +1,6 @@
+@DotnetLearningDictonary_HostAddress = http://localhost:5122
+
+GET {{DotnetLearningDictonary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
