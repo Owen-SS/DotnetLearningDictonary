@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLearningDictonary", "DotnetLearningDictonary\DotnetLearningDictonary.csproj", "{FD198DD4-6486-46B5-AF12-6E7C8A607A1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLearningDictionary", "DotnetLearningDictionary\DotnetLearningDictionary.csproj", "{FD198DD4-6486-46B5-AF12-6E7C8A607A1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictoniary", "Dictoniary", "{C85E1F10-9E4F-475F-9242-6674E5F95261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

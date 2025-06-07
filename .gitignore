@@ -1,8 +1,8 @@
 # Build output
 bin/
 obj/
-./DotnetLearningDictonary/obj/
-./DotnetLearningDictonary/bin/
+./DotnetLearningDictionary/obj/
+./DotnetLearningDictionary/bin/
 
 # Rider / IntelliJ
 .idea/
